@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pasxalisbekos
-- 👀 I’m interested in Cyber Security and Telecommunication Networks
-- 🌱 I’m currently learning Cyber Security in Computer Science Department UOC
+- 👀 I’m interested in Cyber Security and Web Privacy
+- 🌱 MSc graduate in Cyber Security and Distributed Systems at Computer Science Department UOC
 - 📫 Contact Info : pasxalisbekos@gmail.com
 
 <!---
