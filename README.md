@@ -1,6 +1,6 @@
 - Fields of Interest: Cyber Security and Web Privacy
 - MSc graduate in Cyber Security and Distributed Systems at Computer Science Department UOC
-- Contact Info : pasxalisbekos@gmail.com
+- Contact Info : bekos.paschalis@gmail.com
 - Publications : WWW ’23, The Hitchhiker’s Guide to Facebook Web Tracking withInvisible Pixels and Click IDs 
 
 <!---
